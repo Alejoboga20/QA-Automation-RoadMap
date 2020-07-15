@@ -1,6 +1,14 @@
 # Introduction: Different Testing Strategies
 
-Introduction
+Talking about testing strategies we can found the following:
+
+- Black Box
+- Grey Box
+- White Box
+
+![Testing_Strategies](./strategies.png)
+
+These stretegies should be applied in every Product Development Team to assess the best possible quality of your applications.
 
 ## Black Box Testing
 
